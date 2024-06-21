@@ -1,0 +1,60 @@
+opcao('dataelocal',
+      'Digite o numero do campus, com o ponto final:
+      (1.Joao Pessoa,2.Areia,3.Bananeiras,4.Rio Tinto e Mamanguape)').
+opcao('1',
+      'hhih').
+
+opcao('documentacao',
+      'Digite o codigo de sua cota, se tiver. Obs: Ampla concorrencia use A0').
+opcao('A0',
+      'lalalala').
+
+opcao('informacoesgerais',
+      '-Conforme o artigo 2º da Lei 12.089 de 11 de novembro de 2009, “é proibido
+uma mesma pessoa ocupar, na condição de estudante, simultaneamente, no curso
+de graduação, 02 (duas) vagas no mesmo curso ou em cursos diferentes em uma
+ou mais de uma instituição pública de ensino superior em todo o território nacional”
+
+-Entende-se como escola da rede pública a instituição de ensino criada ou
+incorporada, mantida e administrada pelo poder público, assim, escolas filantrópicasou comunitárias não são consideradas escolas da rede pública de ensino.
+
+-O candidato que tenha realizado estudos equivalentes ao Ensino Médio no exterior,  no todo ou em parte, deverá apresentar, no ato do cadastramento, parecer de
+equivalência de estudos emitido pela Secretaria Estadual de Educação de qualquer
+Estado da União, devendo estar os documentos em língua estrangeira visados pela
+autoridade consular brasileira no país de origem e acompanhados da respectiva
+tradução juramentada.
+
+-O não comparecimento ao ato do cadastramento ou a não apresentação da
+documentação exigida implica na perda da vaga.
+
+-O cadastramento poderá ser realizado pelo próprio candidato ou por procurador
+
+legalmente constituído para este fim. Nesse último caso, o representante
+constituído deve apresentar toda documentação elencada no Edital de cadastramento
+e, também, apresentar Cédula de Identidade ou Carteira Nacional de Habilitação
+própria emitida por órgão competente, seguida de procuração pública ou particular com firma reconhecida em cartório.
+
+-A omissão de alguma renda recebida por qual quer membro da família, mesmo
+que recebida como doação ou rendimento informal ou eventual, caracteriza falsa
+declaração, sujeitando o candidato à perda da vaga e à aplicabilidade das sanções
+penais eventualmente cabíveis.
+
+-O Laudo médico atestando a deficiência deverá ser emitido, preferencialmente,
+pela FUNAD ou outra Instituição Pública de Reabilitação.').
+
+opcao('editalcompleto', 'Link: http://www.prg.ufpb.br/prg/codesc/processos-seletivos/noticias/sisu-1a-edicao-2020/edital-de-cadastramento-2020.pdf').
+
+opcao('anexos', 'FORMULÁRIO DE REQUERIMENTO PARA COMPROVAÇÃO DE RENDA FAMILIAR:
+http://plone.ufpb.br/prg/codesc/processos-seletivos/sisu/termo-de-adesao-sisu-2021/ANEXOIIFORMULRIODEREQUERIMENTOPARACOMPROVAODERENDAFAMILIAR.pdf
+
+AUTODECLARAÇÃO ÉTNICO RACIAL:
+http://plone.ufpb.br/prg/codesc/processos-seletivos/sisu/termo-de-adesao-sisu-2021/ANEXOIIIAUTODECLARAOTNICORACIAL.pdf
+
+DECLARAÇÃO DE AGRICULTOR:
+http://www.prg.ufpb.br/prg/codesc/processos-seletivos/sisu/termo-de-adesao-sisu-2021/ANEXOIVDECLARAODEAGRICULTOR.pdf
+
+DECLARAÇÃO DE TRABALHADOR AUTÔNOMO:
+http://plone.ufpb.br/prg/codesc/processos-seletivos/sisu/termo-de-adesao-sisu-2021/ANEXOVDECLARAODETRABALHADORAUTNOMO.pdf
+
+MODELO DE PROCURAÇÃO PARTICULAR:
+http://plone.ufpb.br/prg/codesc/processos-seletivos/sisu/termo-de-adesao-sisu-2021/ANEXOVIMODELODEPROCURAOPARTICULAR.pdf

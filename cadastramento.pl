@@ -1,0 +1,26 @@
+:- include(dados).
+
+cadastramento:-
+    write('Ingressante, seja bem vindo à UFPB.'),nl,
+    write('O que deseja saber?'), nl,
+    write('Digite em minusculo e com ponto final.'),nl,
+    write('Opcoes: '),nl,
+    write('dataelocal.'),nl,
+    write('documentacao.'),nl,
+    write('informacoesgerais'),nl,
+    write('anexos'),nl,
+    write('editalcompleto'),nl,
+    write('sair'),nl,
+
+    repeat,nl,
+    write(''),
+    read(Enter),
+    consultar(Enter, Ans),
+    write(Ans), nl,
+    encerrar(Enter).
+
+    consultar(Enter, AnswerB):-
+    opcao(Enter, AnswerB),!.
+
+    encerrar(Enter):-
+    Enter = ('sair').
